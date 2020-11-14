@@ -1,0 +1,7 @@
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\bin\Debug\Текстовый редактор.exe
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\bin\Debug\Текстовый редактор.pdb
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\obj\x86\Debug\Текстовый_редактор.Form1.resources
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\obj\x86\Debug\Текстовый_редактор.Properties.Resources.resources
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\obj\x86\Debug\Текстовый редактор.csproj.GenerateResource.Cache
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\obj\x86\Debug\Текстовый редактор.exe
+\\nas\redirect\шуйнов ва\documents\visual studio 2010\Projects\Текстовый редактор\Текстовый редактор\obj\x86\Debug\Текстовый редактор.pdb
